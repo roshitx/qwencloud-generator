@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="QwenCloud Generator" width="200">
+  <img src="logo.png" alt="QwenCloud Generator" width="400">
 </p>
 
 <h1 align="center">QwenCloud Generator</h1>
