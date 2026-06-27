@@ -1,0 +1,32 @@
+# Secrets - NEVER commit
+gmail_tokens.json
+client_secret.json
+accounts.json
+api_keys.txt
+api_keys.json
+email_list.txt
+used_proxy.txt
+*.lock
+
+# Logs and temp files
+*.log
+*.tmp
+oauth_code.txt
+oauth_server.py
+
+# Browser profiles and runtime
+__pycache__/
+*.pyc
+*.pyo
+.chrome-profile/
+.cdp-profile/
+screenshots/
+*.png
+*.jpg
+
+# IDE
+.vscode/
+.idea/
+
+# Kimchi internal
+.kimchi/
